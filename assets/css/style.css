@@ -1,1 +1,113 @@
-body{background-color:#fff}.cabin{font-family:cabin,sans-serif}.newsletter{font-family:Lobster,cursive}.newsletter-nav-footer{color:#fff;font-size:2rem}.principal-img_1{height:100%;width:160%}.linea-hr{background-color:#000}.texto-h5{font-family:Cabin,sans-serif;font-size:2rem;color:#373a3c}.text-pp{font-size:26px;font-family:Cabin,sans-serif;color:#373a3c}.boton-seccion{font-family:Cabin,sans-serif;color:#fff;font-size:10px;border-radius:1%}.linea-hr_receta{width:44%;margin-right:80%}.linea-hr_receta2{width:30%;margin-right:80%}.linea-hr_preparacion{width:38%;margin-right:80%}.linea-hr_preparacion2{width:28%;margin-right:80%}.separacion{margin-left:17%}.centrado{width:80%}.centrado-texto{width:60%}.carousel-indicators li{width:.7rem;height:.7rem;background-color:#000;border-radius:50%}.alto-form{padding:7rem 0 7rem 0}.bg-color_form{background-color:#dc3545;color:#fff}.text-form_1{font-size:2.3rem}.text-form_2{font-size:1.7rem}.boton-form{border-color:#fff;width:13rem}
+body {
+    background-color: #fff;
+    font-family: 'Cabin', sans-serif;
+  }
+  
+  .newsletter {
+    font-family: 'Lobster', cursive;
+  }
+  
+  /*barra de navegacion*/
+  .newsletter-nav-footer {
+    font-family: 'Lobster', cursive;
+    font-size: 2rem;
+  }
+  
+  
+  /*seccion pizza chicago*/
+  .principal-img_1 {
+    height: 100%;
+    width: 160%;
+  }
+  
+  .linea-hr {
+    background-color: #000;
+  }
+  
+  .texto-h5 {
+    font-family: 'Cabin', sans-serif;
+    font-size: 2rem;
+    color: #373a3C;
+  }
+  
+  .text-pp {
+    font-size: 26px;
+    font-family: 'Cabin', sans-serif;
+    color: #373a3C;
+  }
+  
+  .boton-seccion {
+    font-family: 'Cabin', sans-serif;
+    color: #fff;
+    font-size: 10px;
+    border-radius: 1%;
+  }
+  
+  /*seccion descriptiva de recetas*/
+  
+  .linea-hr_receta {
+    width: 44%;
+    margin-right: 80%;
+  }
+  
+  .linea-hr_receta2 {
+    width: 30%;
+    margin-right: 80%;
+  }
+  
+  .linea-hr_preparacion {
+    width: 38%;
+    margin-right: 80%;
+  }
+  
+  .linea-hr_preparacion2 {
+    width: 28%;
+    margin-right: 80%;
+  }
+  
+  .separacion {
+    margin-left: 17%;
+  }
+  
+  .centrado {
+    width: 80%;
+  }
+  
+  .centrado-texto {
+    width: 60%;
+  }
+  
+  /*carousel*/
+  .carousel-indicators li {
+    width: 0.7rem;
+    height: 0.7rem;
+    background-color: #373A3C;
+    color: #373A3C;
+    border-radius: 50%;
+  }
+  
+  
+  
+  /*area de formulario*/
+  .alto-form {
+    padding: 7rem 0 7rem 0;
+  }
+  
+  .bg-color_form {
+    background-color: #DC3545;
+    color: #fff;
+  
+  }
+  
+  .text-form_1 {
+    font-size: 2.3rem;
+  }
+  
+  .text-form_2 {
+    font-size: 1.7rem;
+  }
+  
+  .boton-form {
+    border-color: #DDDDDD;
+    width: 13rem;
+  }
